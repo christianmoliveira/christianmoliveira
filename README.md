@@ -21,18 +21,18 @@
 
 <p>
   <a href="https://www.linkedin.com/in/christian-menezes-3135731a6/"><img src="./badges/social/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="mailto:christiannmenezes@gmail.com"><img     src="./badges/social/gmail.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/itsme_christianm/"><img  width="100" src="./badges/social/instagram.svg"></a>&nbsp;&nbsp;
+  <a href="mailto:christiannmenezes@gmail.com"><img src="./badges/social/gmail.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/itsme_christianm/"><img src="./badges/social/instagram.svg"></a>&nbsp;&nbsp;
 </p>
 
 <h5 style="color: #f6f8fa;">Languages:</h5>
 
 <p>
-  <img src="./badges/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="./badges/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"> 
-  <img src="./badges/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> 
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px"> 
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> 
   <!-- <img src="./badges/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">  -->
-  <img src="./badges/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px"> 
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px"> 
 </p>
 
 <h5 style="color: #f6f8fa;">Frameworks:</h5>
