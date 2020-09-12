@@ -1,9 +1,3 @@
-<style>
-  * {
-    background-color: #221e1f;
-  }
-</style>
-
 <img align="right" width="300" height="300" src="https://octodex.github.com/images/privateinvestocat.jpg">
 
 <div align="left">
