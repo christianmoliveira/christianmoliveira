@@ -25,11 +25,15 @@ I'm a 23 years old Computer Science student from Brazil.
 <h5>Technologies and tools</h5>
 
 <p>
-  <img src=".github/html5.svg" alt="html" style="vertical-align:top; margin:4px; width: 30px;">    
-  <img src=".github/css3.svg" alt="css" style="vertical-align:top; margin:4px; width: 30px;"> 
-  <img src=".github/javascript.svg" alt="js" style="vertical-align:top; margin:4px;  width: 30px;"> 
-  <img src=".github/sass.svg" alt="sass" style="vertical-align:top; margin:4px;  width: 30px;">
-  <img src=".github/lua.svg" alt="sass" style="vertical-align:top; margin:4px;  width: 30px;">  
+  <img src=".github/html5.svg" width="30px" alt="html" style="vertical-align:top; margin:4px; width: 30px;">    
+  <img src=".github/css3.svg" width="30px" alt="css" style="vertical-align:top; margin:4px;"> 
+  <img src=".github/javascript.svg" width="30px" alt="js" style="vertical-align:top; margin:4px;"> 
+  <img src=".github/sass.svg" width="30px" alt="sass" style="vertical-align:top; margin:4px;">
+  <img src=".github/lua.svg" width="30px" alt="lua" style="vertical-align:top; margin:4px;">  
+  <img src=".github/github.svg" width="30px" alt="github" style="vertical-align:top; margin:4px;"> 
+  <img src=".github/gitlab.svg" width="30px" alt="gitlab" style="vertical-align:top; margin:4px;"> 
+  <img src=".github/gitkraken.svg" width="30px" alt="gitkraken" style="vertical-align:top; margin:4px;"> 
+  <img src=".github/heroku.svg" width="30px" alt="heroku" style="vertical-align:top; margin:4px;">     
 </p>
 
 ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=christianmoliveira&count_private=true&show_icons=true&theme=shades-of-purple)
